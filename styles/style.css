@@ -3,6 +3,12 @@
     color: #2F4F4F
 }
 
+body {
+    border-left: 2px ridge lightsteelblue;
+    padding-left: 1em;
+}
+
+
 h1 { 
     color: purple; 
     font-size: 2em; 
